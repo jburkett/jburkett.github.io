@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
 name: Random Musings
 description: Described
-title: {page.title}
+title: {{page.title}}
