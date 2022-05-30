@@ -1,4 +1,5 @@
 ---
+name: About name
 title: About
 ---
 # About page
